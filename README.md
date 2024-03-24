@@ -1,5 +1,5 @@
 # UCM-MATH131-COVID-Pandemic-Population-Prediction
-## Purpose: 
+## Descriptions: 
 We aimed to utilize numerical methods to unveil the Susceptible, Infectious, and Recovered population dynamics under a pandemic to gather insights for a better understanding of the spread of viruses and delve into the parameters to minimize the negative impacts from the pandemics.
 
 ## Project Details:
